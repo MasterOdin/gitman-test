@@ -1,0 +1,5 @@
+location: .
+sources:
+- name: sample_dependency
+  repo: https://github.com/githubtraining/hellogitworld
+  rev: master
